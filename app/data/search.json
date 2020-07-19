@@ -1,0 +1,122 @@
+{
+  "foods": [],
+  "in_food_search_whitelist": false,
+  "rank_id": "fa63e40fea7244a28a8595c0d7c41dc9",
+  "restaurants": [
+    {
+      "distance": 465,
+      "float_delivery_fee": 0.0,
+      "float_minimum_order_amount": 20.0,
+      "id": "E1533426145601630920",
+      "image_path": "e2a52500f80d6ea7bc3a0a31835cc92ajpeg",
+      "name": "小段烧烤(崇文门店)",
+      "next_business_time": "明天 16:30",
+      "rating": 4.7,
+      "recent_order_num": 2984,
+      "scheme": "https://h5.ele.me/shop/#id=E1533426145601630920",
+      "tags": [
+        {
+          "background": null,
+          "id": null,
+          "name": "满减",
+          "name_color": "FA7047"
+        }
+      ],
+      "type": 0
+    },
+    {
+      "distance": 2049,
+      "float_delivery_fee": 4.0,
+      "float_minimum_order_amount": 15.0,
+      "id": "E4028426968721821837",
+      "image_path": "bcfe539782a0c1e8438cfe9dd43cf6aepng",
+      "name": "那年烧烤",
+      "next_business_time": "明天 16:30",
+      "rating": 4.6,
+      "recent_order_num": 987,
+      "scheme": "https://h5.ele.me/shop/#id=E4028426968721821837",
+      "tags": [
+        {
+          "background": null,
+          "id": null,
+          "name": "满减",
+          "name_color": "FA7047"
+        }
+      ],
+      "type": 0
+    },
+    {
+      "distance": 2101,
+      "float_delivery_fee": 0.0,
+      "float_minimum_order_amount": 20.0,
+      "id": "E3257711012200350910",
+      "image_path": "90ea47f97034a5644e70a1e7464fe906JPEG",
+      "name": "小串烧烤",
+      "next_business_time": "明天 17:00",
+      "rating": 4.7,
+      "recent_order_num": 790,
+      "scheme": "https://h5.ele.me/shop/#id=E3257711012200350910",
+      "tags": [
+        {
+          "background": null,
+          "id": null,
+          "name": "满减",
+          "name_color": "FA7047"
+        }
+      ],
+      "type": 0
+    },
+    {
+      "distance": 3816,
+      "float_delivery_fee": 4.0,
+      "float_minimum_order_amount": 30.0,
+      "id": "E17504444332566303566",
+      "image_path": "be46052d3a9392f877ce5a1be6999407JPEG",
+      "name": "小竹签烧烤",
+      "next_business_time": "明天 11:35",
+      "rating": 4.7,
+      "recent_order_num": 1515,
+      "scheme": "https://h5.ele.me/shop/#id=E17504444332566303566",
+      "tags": [
+        {
+          "background": null,
+          "id": null,
+          "name": "满减",
+          "name_color": "FA7047"
+        }
+      ],
+      "type": 0
+    },
+    {
+      "distance": 4059,
+      "float_delivery_fee": 5.0,
+      "float_minimum_order_amount": 20.0,
+      "id": "E14322052887932858790",
+      "image_path": "286b5366bd06225c5b090d33c0eee3d1jpeg",
+      "name": "進邻阁烧烤店（原二姐烤串）",
+      "next_business_time": "明天 10:55",
+      "rating": 4.3,
+      "recent_order_num": 2463,
+      "scheme": "https://h5.ele.me/shop/#id=E14322052887932858790",
+      "tags": [
+        {
+          "background": null,
+          "id": null,
+          "name": "满减",
+          "name_color": "FA7047"
+        }
+      ],
+      "type": 0
+    }
+  ],
+  "schema": "",
+  "search_word": "烧烤",
+  "word_with_meta": [
+    { "restaurant_num": null, "word": "锦州烧烤" },
+    { "restaurant_num": null, "word": "烧烤味" },
+    { "restaurant_num": null, "word": "老四烧烤" },
+    { "restaurant_num": null, "word": "烧烤架" },
+    { "restaurant_num": null, "word": "小张烧烤" }
+  ],
+  "words": ["锦州烧烤", "烧烤味", "老四烧烤", "烧烤架", "小张烧烤"]
+}

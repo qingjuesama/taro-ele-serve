@@ -1,0 +1,1045 @@
+{
+  "comments": [
+    {
+      "avatar": "d907aacdc2c12822c8cc552fab4d8d5ajpeg",
+      "food_ratings": [
+        {
+          "food_id": 2000000001375295,
+          "rate_name": "就爱吃鸡双人餐",
+          "rating": 5,
+          "rating_text": "",
+          "reply": null,
+          "sku_id": 300000001403163814,
+          "sku_id_str": "300000001403163814",
+          "tags": null
+        },
+        {
+          "food_id": 2000000001375293,
+          "rate_name": "麦辣鸡翅2块",
+          "rating": 5,
+          "rating_text": "",
+          "reply": null,
+          "sku_id": 300000001418232998,
+          "sku_id_str": "300000001418232998",
+          "tags": null
+        },
+        {
+          "food_id": 874347546,
+          "rate_name": "那么大鸡排",
+          "rating": 5,
+          "rating_text": "",
+          "reply": null,
+          "sku_id": 495691866278,
+          "sku_id_str": "495691866278",
+          "tags": null
+        }
+      ],
+      "highlights": null,
+      "highlights_v2": {},
+      "is_super_vip": true,
+      "is_taobao_vip": true,
+      "order_id": 0,
+      "order_images": [
+        {
+          "food_ids": [2000000001375295],
+          "food_indexes": null,
+          "food_names": ["就爱吃鸡双人餐"],
+          "image_hash": "05784d02309b4a4c76af9627ae90e105jpeg",
+          "sku_ids": null
+        }
+      ],
+      "package_rating": 5,
+      "quality_rating": 5,
+      "rated_at": "2020-06-29",
+      "rating": 5,
+      "rating_text": "",
+      "reply": null,
+      "rider_rating": 5,
+      "tags": [],
+      "time_spent_desc": "30分钟送达",
+      "username": "m*****5"
+    },
+    {
+      "avatar": "",
+      "food_ratings": [
+        {
+          "food_id": 1678967051,
+          "rate_name": "脆香油条",
+          "rating": 5,
+          "rating_text": "脆香油条 猪柳炒双蛋堡 双层原味板烧鸡腿麦满分配脆薯饼-大优品豆浆348ml(份) 都非常好",
+          "reply": null,
+          "sku_id": 100000005837992102,
+          "sku_id_str": "100000005837992102",
+          "tags": null
+        },
+        {
+          "food_id": 824625707,
+          "rate_name": "猪柳炒双蛋堡",
+          "rating": 5,
+          "rating_text": "脆香油条 猪柳炒双蛋堡 双层原味板烧鸡腿麦满分配脆薯饼-大优品豆浆348ml(份) 都非常好",
+          "reply": null,
+          "sku_id": 444776716454,
+          "sku_id_str": "444776716454",
+          "tags": null
+        },
+        {
+          "food_id": 1710688841,
+          "rate_name": "双层原味板烧鸡腿麦满分配脆薯饼-大优品豆浆348ml(份)",
+          "rating": 5,
+          "rating_text": "脆香油条 猪柳炒双蛋堡 双层原味板烧鸡腿麦满分配脆薯饼-大优品豆浆348ml(份) 都非常好",
+          "reply": null,
+          "sku_id": 100000038298213542,
+          "sku_id_str": "100000038298213542",
+          "tags": null
+        }
+      ],
+      "highlights": null,
+      "highlights_v2": {
+        "双层原味板烧鸡腿麦满分配脆薯饼-大优品豆浆348ml(份)": 100000038298213542,
+        "猪柳炒双蛋堡": 444776716454,
+        "脆香油条": 100000005837992102
+      },
+      "is_super_vip": false,
+      "is_taobao_vip": false,
+      "order_id": 0,
+      "order_images": [
+        {
+          "food_ids": [1678967051, 824625707, 1710688841],
+          "food_indexes": null,
+          "food_names": [
+            "脆香油条",
+            "猪柳炒双蛋堡",
+            "双层原味板烧鸡腿麦满分配脆薯饼-大优品豆浆348ml(份)"
+          ],
+          "image_hash": "d77df9cae1efcf3b142512e0d1dd802djpeg",
+          "sku_ids": null
+        }
+      ],
+      "package_rating": 5,
+      "quality_rating": 5,
+      "rated_at": "2020-06-21",
+      "rating": 5,
+      "rating_text": "脆香油条 猪柳炒双蛋堡 双层原味板烧鸡腿麦满分配脆薯饼-大优品豆浆348ml(份) 都非常好",
+      "reply": null,
+      "rider_rating": 5,
+      "tags": [],
+      "time_spent_desc": "10分钟送达",
+      "username": "3*******0"
+    },
+    {
+      "avatar": "",
+      "food_ratings": [
+        {
+          "food_id": 2000000001406043,
+          "rate_name": "饿了么星选双人餐",
+          "rating": 5,
+          "rating_text": "",
+          "reply": null,
+          "sku_id": 300000001418235046,
+          "sku_id_str": "300000001418235046",
+          "tags": null
+        }
+      ],
+      "highlights": null,
+      "highlights_v2": {},
+      "is_super_vip": false,
+      "is_taobao_vip": false,
+      "order_id": 0,
+      "order_images": [
+        {
+          "food_ids": [2000000001406043],
+          "food_indexes": null,
+          "food_names": ["饿了么星选双人餐"],
+          "image_hash": "e22f2fa935a7a72f760b44587a4dbf18jpeg",
+          "sku_ids": null
+        }
+      ],
+      "package_rating": 5,
+      "quality_rating": 5,
+      "rated_at": "2020-06-20",
+      "rating": 5,
+      "rating_text": "",
+      "reply": null,
+      "rider_rating": 5,
+      "tags": [],
+      "time_spent_desc": "30分钟送达",
+      "username": "3*******d"
+    },
+    {
+      "avatar": null,
+      "food_ratings": [
+        {
+          "food_id": 2000000001401113,
+          "rate_name": "麦辣鸡腿汉堡",
+          "rating": 4,
+          "rating_text": "",
+          "reply": null,
+          "sku_id": 300000001418234022,
+          "sku_id_str": "300000001418234022",
+          "tags": null
+        },
+        {
+          "food_id": 2000000001473873,
+          "rate_name": "大薯条买一送一",
+          "rating": 4,
+          "rating_text": "",
+          "reply": null,
+          "sku_id": 300000001503944870,
+          "sku_id_str": "300000001503944870",
+          "tags": null
+        }
+      ],
+      "highlights": null,
+      "highlights_v2": {},
+      "is_super_vip": true,
+      "is_taobao_vip": false,
+      "order_id": 0,
+      "order_images": null,
+      "package_rating": 5,
+      "quality_rating": 5,
+      "rated_at": "2020-06-25",
+      "rating": 5,
+      "rating_text": "送餐小哥人超好",
+      "reply": null,
+      "rider_rating": 5,
+      "tags": [],
+      "time_spent_desc": "",
+      "username": "匿名用户"
+    },
+    {
+      "avatar": null,
+      "food_ratings": [
+        {
+          "food_id": 1891726720,
+          "rate_name": "桃桃麦旋风",
+          "rating": 5,
+          "rating_text": "",
+          "reply": null,
+          "sku_id": 100000223699719334,
+          "sku_id_str": "100000223699719334",
+          "tags": null
+        },
+        {
+          "food_id": 2000000001473873,
+          "rate_name": "大薯条买一送一",
+          "rating": 5,
+          "rating_text": "",
+          "reply": null,
+          "sku_id": 300000001503944870,
+          "sku_id_str": "300000001503944870",
+          "tags": null
+        },
+        {
+          "food_id": 2000000001397460,
+          "rate_name": "板烧翅乐四件套",
+          "rating": 5,
+          "rating_text": "",
+          "reply": null,
+          "sku_id": 300000001426095270,
+          "sku_id_str": "300000001426095270",
+          "tags": null
+        },
+        {
+          "food_id": 1857652278,
+          "rate_name": "麦麦脆汁鸡(鸡腿)1块",
+          "rating": 5,
+          "rating_text": "",
+          "reply": null,
+          "sku_id": 100000188835424422,
+          "sku_id_str": "100000188835424422",
+          "tags": null
+        }
+      ],
+      "highlights": null,
+      "highlights_v2": {},
+      "is_super_vip": false,
+      "is_taobao_vip": false,
+      "order_id": 0,
+      "order_images": null,
+      "package_rating": 5,
+      "quality_rating": 5,
+      "rated_at": "2020-06-23",
+      "rating": 5,
+      "rating_text": "好吃死了，不愧是麦当劳",
+      "reply": null,
+      "rider_rating": 5,
+      "tags": [],
+      "time_spent_desc": "",
+      "username": "匿名用户"
+    },
+    {
+      "avatar": null,
+      "food_ratings": [
+        {
+          "food_id": 2000000001401113,
+          "rate_name": "麦辣鸡腿汉堡",
+          "rating": 5,
+          "rating_text": "",
+          "reply": null,
+          "sku_id": 300000001418234022,
+          "sku_id_str": "300000001418234022",
+          "tags": null
+        },
+        {
+          "food_id": 1706845215,
+          "rate_name": "奥利奥麦旋风",
+          "rating": 5,
+          "rating_text": "",
+          "reply": null,
+          "sku_id": 100000034378222758,
+          "sku_id_str": "100000034378222758",
+          "tags": null
+        },
+        {
+          "food_id": 681366920,
+          "rate_name": "双层吉士汉堡",
+          "rating": 2,
+          "rating_text": "",
+          "reply": null,
+          "sku_id": 298079725734,
+          "sku_id_str": "298079725734",
+          "tags": null
+        },
+        {
+          "food_id": 1857825955,
+          "rate_name": "蜜桃派2份特惠",
+          "rating": 5,
+          "rating_text": "",
+          "reply": null,
+          "sku_id": 100000188969955494,
+          "sku_id_str": "100000188969955494",
+          "tags": null
+        }
+      ],
+      "highlights": null,
+      "highlights_v2": {},
+      "is_super_vip": false,
+      "is_taobao_vip": false,
+      "order_id": 0,
+      "order_images": null,
+      "package_rating": 5,
+      "quality_rating": 2,
+      "rated_at": "2020-06-13",
+      "rating": 2,
+      "rating_text": "吉士汉堡  今天得味道好咸  特别咸",
+      "reply": null,
+      "rider_rating": 5,
+      "tags": [],
+      "time_spent_desc": "",
+      "username": "匿名用户"
+    },
+    {
+      "avatar": "",
+      "food_ratings": [
+        {
+          "food_id": 2000000001392440,
+          "rate_name": "椒盐金脆鸡翅一对",
+          "rating": 5,
+          "rating_text": "",
+          "reply": null,
+          "sku_id": 300000001413339302,
+          "sku_id_str": "300000001413339302",
+          "tags": null
+        },
+        {
+          "food_id": 1791452663,
+          "rate_name": " 汉堡开心乐园餐-玉米杯(小）",
+          "rating": 5,
+          "rating_text": "",
+          "reply": null,
+          "sku_id": 100000121141123238,
+          "sku_id_str": "100000121141123238",
+          "tags": null
+        },
+        {
+          "food_id": 1857767816,
+          "rate_name": " 辣腿麦麦脆汁鸡单人餐",
+          "rating": 5,
+          "rating_text": "",
+          "reply": null,
+          "sku_id": 100000188955365542,
+          "sku_id_str": "100000188955365542",
+          "tags": null
+        },
+        {
+          "food_id": 2000000001375293,
+          "rate_name": "麦辣鸡翅2块",
+          "rating": 5,
+          "rating_text": "",
+          "reply": null,
+          "sku_id": 300000001418232998,
+          "sku_id_str": "300000001418232998",
+          "tags": null
+        },
+        {
+          "food_id": 1857772677,
+          "rate_name": " 麦麦脆汁鸡(鸡腿)1块",
+          "rating": 5,
+          "rating_text": "",
+          "reply": null,
+          "sku_id": 100000188997853350,
+          "sku_id_str": "100000188997853350",
+          "tags": null
+        }
+      ],
+      "highlights": null,
+      "highlights_v2": {},
+      "is_super_vip": true,
+      "is_taobao_vip": false,
+      "order_id": 0,
+      "order_images": null,
+      "package_rating": 5,
+      "quality_rating": 5,
+      "rated_at": "2020-06-04",
+      "rating": 5,
+      "rating_text": "不吃K家的汉堡，汉堡薯条还是M家的好吃！",
+      "reply": null,
+      "rider_rating": 5,
+      "tags": [],
+      "time_spent_desc": "30分钟送达",
+      "username": "5*********7"
+    },
+    {
+      "avatar": "",
+      "food_ratings": [
+        {
+          "food_id": 1829850324,
+          "rate_name": "麦辣鸡翅4块中套餐-中可乐 494ml",
+          "rating": 5,
+          "rating_text": "麦辣鸡翅4块中套餐-中可乐 494ml 好吃",
+          "reply": null,
+          "sku_id": 100000160453021862,
+          "sku_id_str": "100000160453021862",
+          "tags": null
+        }
+      ],
+      "highlights": null,
+      "highlights_v2": {
+        "麦辣鸡翅4块中套餐-中可乐 494ml": 100000160453021862
+      },
+      "is_super_vip": false,
+      "is_taobao_vip": false,
+      "order_id": 0,
+      "order_images": [
+        {
+          "food_ids": [1829850324],
+          "food_indexes": null,
+          "food_names": ["麦辣鸡翅4块中套餐-中可乐 494ml"],
+          "image_hash": "d6b99e0958998641a0f7201499b9b1efjpeg",
+          "sku_ids": null
+        }
+      ],
+      "package_rating": 5,
+      "quality_rating": 5,
+      "rated_at": "2020-05-24",
+      "rating": 5,
+      "rating_text": "麦辣鸡翅4块中套餐-中可乐 494ml 好吃",
+      "reply": null,
+      "rider_rating": 5,
+      "tags": [],
+      "time_spent_desc": "30分钟送达",
+      "username": "a******6"
+    },
+    {
+      "avatar": "",
+      "food_ratings": [
+        {
+          "food_id": 2000000001406040,
+          "rate_name": "板烧鸡腿堡",
+          "rating": 4,
+          "rating_text": "",
+          "reply": null,
+          "sku_id": 300000001408379046,
+          "sku_id_str": "300000001408379046",
+          "tags": null
+        },
+        {
+          "food_id": 2000000001406041,
+          "rate_name": "巨无霸",
+          "rating": 4,
+          "rating_text": "",
+          "reply": null,
+          "sku_id": 300000001426093222,
+          "sku_id_str": "300000001426093222",
+          "tags": null
+        },
+        {
+          "food_id": 681353874,
+          "rate_name": "培根蔬萃双层牛堡",
+          "rating": 4,
+          "rating_text": "",
+          "reply": null,
+          "sku_id": 298066366630,
+          "sku_id_str": "298066366630",
+          "tags": null
+        },
+        {
+          "food_id": 1842664683,
+          "rate_name": "吃鸡小食分享餐",
+          "rating": 4,
+          "rating_text": "",
+          "reply": null,
+          "sku_id": 100000173545170086,
+          "sku_id_str": "100000173545170086",
+          "tags": null
+        }
+      ],
+      "highlights": null,
+      "highlights_v2": {},
+      "is_super_vip": false,
+      "is_taobao_vip": false,
+      "order_id": 0,
+      "order_images": null,
+      "package_rating": 5,
+      "quality_rating": 5,
+      "rated_at": "2020-05-23",
+      "rating": 5,
+      "rating_text": "味道很好，包装也很仔细。",
+      "reply": null,
+      "rider_rating": 5,
+      "tags": [],
+      "time_spent_desc": "30分钟送达",
+      "username": "6*********e"
+    },
+    {
+      "avatar": "40fdd8ee0f8d5ecffc4e9d93aefe2f60jpeg",
+      "food_ratings": [
+        {
+          "food_id": 1857756837,
+          "rate_name": " 板烧大套餐5人份",
+          "rating": 5,
+          "rating_text": "",
+          "reply": null,
+          "sku_id": 100000188952336550,
+          "sku_id_str": "100000188952336550",
+          "tags": null
+        }
+      ],
+      "highlights": null,
+      "highlights_v2": {},
+      "is_super_vip": true,
+      "is_taobao_vip": true,
+      "order_id": 0,
+      "order_images": [
+        {
+          "food_ids": [1857756837],
+          "food_indexes": null,
+          "food_names": [" 板烧大套餐5人份"],
+          "image_hash": "f189297d55cd53ae37bfc064031fa55bjpeg",
+          "sku_ids": null
+        }
+      ],
+      "package_rating": 5,
+      "quality_rating": 5,
+      "rated_at": "2020-05-20",
+      "rating": 5,
+      "rating_text": "很快！给孩子们的晚餐～～～热乎乎！",
+      "reply": null,
+      "rider_rating": 5,
+      "tags": [],
+      "time_spent_desc": "30分钟送达",
+      "username": "凯***0"
+    },
+    {
+      "avatar": "40fdd8ee0f8d5ecffc4e9d93aefe2f60jpeg",
+      "food_ratings": [
+        {
+          "food_id": 1857691518,
+          "rate_name": " 麦辣鸡腿汉堡麦乐鸡组合10份",
+          "rating": 5,
+          "rating_text": "",
+          "reply": null,
+          "sku_id": 100000188972282022,
+          "sku_id_str": "100000188972282022",
+          "tags": null
+        }
+      ],
+      "highlights": null,
+      "highlights_v2": {},
+      "is_super_vip": true,
+      "is_taobao_vip": true,
+      "order_id": 0,
+      "order_images": [
+        {
+          "food_ids": [1857691518],
+          "food_indexes": null,
+          "food_names": [" 麦辣鸡腿汉堡麦乐鸡组合10份"],
+          "image_hash": "32e6a329e5c350abe004bcc7104532ffjpeg",
+          "sku_ids": null
+        }
+      ],
+      "package_rating": 5,
+      "quality_rating": 5,
+      "rated_at": "2020-05-20",
+      "rating": 5,
+      "rating_text": "很快！给孩子们的晚餐～～～热乎乎！",
+      "reply": null,
+      "rider_rating": 5,
+      "tags": [],
+      "time_spent_desc": "30分钟送达",
+      "username": "凯***0"
+    },
+    {
+      "avatar": "",
+      "food_ratings": [
+        {
+          "food_id": 2000000001401113,
+          "rate_name": "麦辣鸡腿汉堡",
+          "rating": 5,
+          "rating_text": "麦辣鸡腿汉堡 巨无霸薯条四件套 服务周到",
+          "reply": null,
+          "sku_id": 300000001418234022,
+          "sku_id_str": "300000001418234022",
+          "tags": null
+        },
+        {
+          "food_id": 2000000001406044,
+          "rate_name": "巨无霸薯条四件套",
+          "rating": 5,
+          "rating_text": "麦辣鸡腿汉堡 巨无霸薯条四件套 服务周到",
+          "reply": null,
+          "sku_id": 300000001403164838,
+          "sku_id_str": "300000001403164838",
+          "tags": null
+        }
+      ],
+      "highlights": null,
+      "highlights_v2": {
+        "巨无霸薯条四件套": 300000001403164838,
+        "麦辣鸡腿汉堡": 300000001418234022
+      },
+      "is_super_vip": false,
+      "is_taobao_vip": false,
+      "order_id": 0,
+      "order_images": null,
+      "package_rating": 5,
+      "quality_rating": 5,
+      "rated_at": "2020-05-20",
+      "rating": 5,
+      "rating_text": "麦辣鸡腿汉堡 巨无霸薯条四件套 服务周到",
+      "reply": null,
+      "rider_rating": 5,
+      "tags": [],
+      "time_spent_desc": "30分钟送达",
+      "username": "4*******d"
+    },
+    {
+      "avatar": null,
+      "food_ratings": [
+        {
+          "food_id": 2000000001392442,
+          "rate_name": "无辣不欢冰火可乐三人餐",
+          "rating": 4,
+          "rating_text": "",
+          "reply": null,
+          "sku_id": 300000001426094246,
+          "sku_id_str": "300000001426094246",
+          "tags": null
+        }
+      ],
+      "highlights": null,
+      "highlights_v2": {},
+      "is_super_vip": true,
+      "is_taobao_vip": false,
+      "order_id": 0,
+      "order_images": [
+        {
+          "food_ids": [2000000001392442],
+          "food_indexes": null,
+          "food_names": ["无辣不欢冰火可乐三人餐"],
+          "image_hash": "4c70ebdc6bc8e3769f375990ad5e8f3fjpeg",
+          "sku_ids": null
+        }
+      ],
+      "package_rating": 1,
+      "quality_rating": 4,
+      "rated_at": "2020-05-18",
+      "rating": 1,
+      "rating_text": "收到的可乐是这样的，不知道味道咋样",
+      "reply": null,
+      "rider_rating": 3,
+      "tags": [],
+      "time_spent_desc": "按时送达",
+      "username": "匿名用户"
+    },
+    {
+      "avatar": null,
+      "food_ratings": [
+        {
+          "food_id": 1791452663,
+          "rate_name": " 汉堡开心乐园餐-玉米杯(小）",
+          "rating": 2,
+          "rating_text": "",
+          "reply": null,
+          "sku_id": 100000121141123238,
+          "sku_id_str": "100000121141123238",
+          "tags": null
+        },
+        {
+          "food_id": 2000000001375295,
+          "rate_name": "就爱吃鸡双人餐",
+          "rating": 4,
+          "rating_text": "",
+          "reply": null,
+          "sku_id": 300000001403163814,
+          "sku_id_str": "300000001403163814",
+          "tags": null
+        },
+        {
+          "food_id": 681366995,
+          "rate_name": "香芋派",
+          "rating": 4,
+          "rating_text": "",
+          "reply": null,
+          "sku_id": 298079802534,
+          "sku_id_str": "298079802534",
+          "tags": null
+        }
+      ],
+      "highlights": null,
+      "highlights_v2": {},
+      "is_super_vip": false,
+      "is_taobao_vip": false,
+      "order_id": 0,
+      "order_images": null,
+      "package_rating": 5,
+      "quality_rating": 4,
+      "rated_at": "2020-05-16",
+      "rating": 4,
+      "rating_text": "除了鸡块明显时间比较长了，太硬了。其它的都很好。",
+      "reply": null,
+      "rider_rating": 5,
+      "tags": [],
+      "time_spent_desc": "",
+      "username": "匿名用户"
+    },
+    {
+      "avatar": "",
+      "food_ratings": [
+        {
+          "food_id": 1852414244,
+          "rate_name": "奥利奥麦旋风两份",
+          "rating": 5,
+          "rating_text": "",
+          "reply": null,
+          "sku_id": 100000183544573094,
+          "sku_id_str": "100000183544573094",
+          "tags": null
+        },
+        {
+          "food_id": 1857825955,
+          "rate_name": "蜜桃派2份特惠",
+          "rating": 5,
+          "rating_text": "",
+          "reply": null,
+          "sku_id": 100000188969955494,
+          "sku_id_str": "100000188969955494",
+          "tags": null
+        },
+        {
+          "food_id": 1843317681,
+          "rate_name": "香芋派2份",
+          "rating": 5,
+          "rating_text": "",
+          "reply": null,
+          "sku_id": 100000174196008102,
+          "sku_id_str": "100000174196008102",
+          "tags": null
+        },
+        {
+          "food_id": 681363288,
+          "rate_name": "玉米杯(大)",
+          "rating": 5,
+          "rating_text": "",
+          "reply": null,
+          "sku_id": 298076006566,
+          "sku_id_str": "298076006566",
+          "tags": null
+        }
+      ],
+      "highlights": null,
+      "highlights_v2": {},
+      "is_super_vip": false,
+      "is_taobao_vip": false,
+      "order_id": 0,
+      "order_images": null,
+      "package_rating": 5,
+      "quality_rating": 5,
+      "rated_at": "2020-05-06",
+      "rating": 5,
+      "rating_text": "特别好",
+      "reply": null,
+      "rider_rating": 5,
+      "tags": [],
+      "time_spent_desc": "30分钟送达",
+      "username": "3*******d"
+    },
+    {
+      "avatar": "",
+      "food_ratings": [
+        {
+          "food_id": 1848193353,
+          "rate_name": "板烧鸡腿堡",
+          "rating": 5,
+          "rating_text": "",
+          "reply": null,
+          "sku_id": 100000179275345062,
+          "sku_id_str": "100000179275345062",
+          "tags": null
+        },
+        {
+          "food_id": 1857772677,
+          "rate_name": " 麦麦脆汁鸡(琵琶腿)1块",
+          "rating": 5,
+          "rating_text": "",
+          "reply": null,
+          "sku_id": 100000188997853350,
+          "sku_id_str": "100000188997853350",
+          "tags": null
+        }
+      ],
+      "highlights": null,
+      "highlights_v2": {},
+      "is_super_vip": true,
+      "is_taobao_vip": false,
+      "order_id": 0,
+      "order_images": null,
+      "package_rating": 5,
+      "quality_rating": 5,
+      "rated_at": "2020-05-05",
+      "rating": 5,
+      "rating_text": "鸡腿🍗超好吃，嫩嫩的，推荐",
+      "reply": null,
+      "rider_rating": 5,
+      "tags": [],
+      "time_spent_desc": "30分钟送达",
+      "username": "3*******0"
+    },
+    {
+      "avatar": null,
+      "food_ratings": [
+        {
+          "food_id": 681376204,
+          "rate_name": "不素之霸双层牛肉堡",
+          "rating": 5,
+          "rating_text": "",
+          "reply": null,
+          "sku_id": 298089232550,
+          "sku_id_str": "298089232550",
+          "tags": null
+        },
+        {
+          "food_id": 1848193353,
+          "rate_name": "板烧鸡腿堡",
+          "rating": 5,
+          "rating_text": "",
+          "reply": null,
+          "sku_id": 100000179275345062,
+          "sku_id_str": "100000179275345062",
+          "tags": null
+        },
+        {
+          "food_id": 1848193351,
+          "rate_name": "麦乐鸡5块",
+          "rating": 5,
+          "rating_text": "",
+          "reply": null,
+          "sku_id": 100000179198402726,
+          "sku_id_str": "100000179198402726",
+          "tags": null
+        }
+      ],
+      "highlights": null,
+      "highlights_v2": {},
+      "is_super_vip": true,
+      "is_taobao_vip": true,
+      "order_id": 0,
+      "order_images": null,
+      "package_rating": 5,
+      "quality_rating": 5,
+      "rated_at": "2020-05-02",
+      "rating": 5,
+      "rating_text": "很好",
+      "reply": null,
+      "rider_rating": 5,
+      "tags": [],
+      "time_spent_desc": "30分钟送达",
+      "username": "匿名用户"
+    },
+    {
+      "avatar": "42dddcde33e31c93e04f548416113de8jpeg",
+      "food_ratings": [
+        {
+          "food_id": 1832378533,
+          "rate_name": "小食纷享盒（那么大鸡排）",
+          "rating": 5,
+          "rating_text": "",
+          "reply": null,
+          "sku_id": 100000162959825062,
+          "sku_id_str": "100000162959825062",
+          "tags": null
+        },
+        {
+          "food_id": 681366920,
+          "rate_name": "双层吉士汉堡",
+          "rating": 5,
+          "rating_text": "",
+          "reply": null,
+          "sku_id": 298079725734,
+          "sku_id_str": "298079725734",
+          "tags": null
+        },
+        {
+          "food_id": 1857780844,
+          "rate_name": "蜜桃派",
+          "rating": 5,
+          "rating_text": "",
+          "reply": null,
+          "sku_id": 100000188949686438,
+          "sku_id_str": "100000188949686438",
+          "tags": null
+        }
+      ],
+      "highlights": null,
+      "highlights_v2": {},
+      "is_super_vip": true,
+      "is_taobao_vip": false,
+      "order_id": 0,
+      "order_images": [
+        {
+          "food_ids": [1832378533, 681366920, 1857780844],
+          "food_indexes": null,
+          "food_names": ["小食纷享盒（那么大鸡排）", "双层吉士汉堡", "蜜桃派"],
+          "image_hash": "88aa28d86387512afce4199d01628ae2jpeg",
+          "sku_ids": null
+        }
+      ],
+      "package_rating": 5,
+      "quality_rating": 5,
+      "rated_at": "2020-04-30",
+      "rating": 5,
+      "rating_text": "好吃好吃好吃",
+      "reply": null,
+      "rider_rating": 5,
+      "tags": [],
+      "time_spent_desc": "30分钟送达",
+      "username": "_**********G"
+    },
+    {
+      "avatar": "",
+      "food_ratings": [
+        {
+          "food_id": 1732399029,
+          "rate_name": "“鸡”不可失",
+          "rating": 4,
+          "rating_text": "",
+          "reply": null,
+          "sku_id": 100000060574486694,
+          "sku_id_str": "100000060574486694",
+          "tags": null
+        },
+        {
+          "food_id": 1848268164,
+          "rate_name": "巨无霸薯条四件套",
+          "rating": 4,
+          "rating_text": "",
+          "reply": null,
+          "sku_id": 100000179275347110,
+          "sku_id_str": "100000179275347110",
+          "tags": null
+        },
+        {
+          "food_id": 681363288,
+          "rate_name": "玉米杯(大)",
+          "rating": 4,
+          "rating_text": "",
+          "reply": null,
+          "sku_id": 298076006566,
+          "sku_id_str": "298076006566",
+          "tags": null
+        }
+      ],
+      "highlights": null,
+      "highlights_v2": {},
+      "is_super_vip": true,
+      "is_taobao_vip": true,
+      "order_id": 0,
+      "order_images": null,
+      "package_rating": 5,
+      "quality_rating": 5,
+      "rated_at": "2020-04-28",
+      "rating": 5,
+      "rating_text": "好",
+      "reply": null,
+      "rider_rating": 5,
+      "tags": [],
+      "time_spent_desc": "30分钟送达",
+      "username": "3*******9"
+    },
+    {
+      "avatar": "d63cd09743bdf6f1509c6d77211215cdjpeg",
+      "food_ratings": [
+        {
+          "food_id": 1706817741,
+          "rate_name": "草莓新地",
+          "rating": 5,
+          "rating_text": "椒盐金脆鸡翅一对 草莓新地 完美",
+          "reply": null,
+          "sku_id": 100000034331036838,
+          "sku_id_str": "100000034331036838",
+          "tags": null
+        },
+        {
+          "food_id": 1848193350,
+          "rate_name": "椒盐金脆鸡翅一对",
+          "rating": 5,
+          "rating_text": "椒盐金脆鸡翅一对 草莓新地 完美",
+          "reply": null,
+          "sku_id": 100000179216935078,
+          "sku_id_str": "100000179216935078",
+          "tags": null
+        }
+      ],
+      "highlights": null,
+      "highlights_v2": {
+        "椒盐金脆鸡翅一对": 100000179216935078,
+        "草莓新地": 100000034331036838
+      },
+      "is_super_vip": true,
+      "is_taobao_vip": false,
+      "order_id": 0,
+      "order_images": [
+        {
+          "food_ids": [1706817741],
+          "food_indexes": null,
+          "food_names": ["草莓新地"],
+          "image_hash": "4e8bc42a20d6b872dbc78157c3e09691jpeg",
+          "sku_ids": null
+        }
+      ],
+      "package_rating": 5,
+      "quality_rating": 5,
+      "rated_at": "2020-04-26",
+      "rating": 5,
+      "rating_text": "椒盐金脆鸡翅一对 草莓新地 完美",
+      "reply": null,
+      "rider_rating": 5,
+      "tags": [],
+      "time_spent_desc": "30分钟送达",
+      "username": "一***哥"
+    }
+  ],
+  "rating": {
+    "overall_score": 4.82,
+    "package_score": 4.91,
+    "rider_score": 4.92,
+    "taste_score": 4.92
+  },
+  "tags": [
+    { "count": 5839, "name": "全部", "unsatisfied": false },
+    { "count": -1, "name": "最新", "unsatisfied": false },
+    { "count": 5728, "name": "好评", "unsatisfied": false },
+    { "count": 69, "name": "差评", "unsatisfied": true },
+    { "count": 176, "name": "有图", "unsatisfied": false }
+  ]
+}

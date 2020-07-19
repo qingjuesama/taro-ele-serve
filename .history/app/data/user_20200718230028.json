@@ -1,0 +1,58 @@
+{
+  "users": [
+    {
+      "id": "1594614103283",
+      "phone": "13333333333",
+      "password": "123456",
+      "userName": "测试名字对",
+      "headImg": "http://localhost:4000/public/uploadImg/file-1594951619080.png",
+      "address": [
+        {
+          "address": "智慧四街全运三路(公交站)",
+          "city": "沈阳市",
+          "latitude": "41.677574",
+          "longitude": "123.462914",
+          "name": "水电费",
+          "address_detail": "阿斯顿法国",
+          "sex": "1",
+          "phone": "14444444444",
+          "id": "1594614238802"
+        },
+        {
+          "address": "沈阳市人民政府接待室",
+          "city": "沈阳市",
+          "latitude": "41.677229",
+          "longitude": "123.464963",
+          "name": "大客户",
+          "address_detail": "街206-3号市规划大厦3号楼",
+          "sex": "1",
+          "phone": "17777777777",
+          "id": "1594614972868"
+        },
+        {
+          "address": "智慧四街全运五路(公交站)",
+          "city": "沈阳市",
+          "latitude": "41.677563",
+          "longitude": "123.462784",
+          "name": "是是是",
+          "address_detail": "沈阳市浑南区(停运)浑南新区一线(支线B)",
+          "sex": "1",
+          "phone": "13333333333",
+          "id": "1594890204917"
+        },
+        {
+          "address": "智慧四街全运五路(公交站)",
+          "city": "沈阳市",
+          "latitude": "41.677563",
+          "longitude": "123.462784",
+          "name": "qqqq",
+          "address_detail": "沈阳市浑南区(停运)浑南新区一线(支线B)",
+          "sex": "1",
+          "phone": "18500255303",
+          "id": "1594895943088"
+        }
+      ],
+      "order": []
+    }
+  ]
+}

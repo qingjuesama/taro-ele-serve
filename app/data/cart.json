@@ -1,0 +1,76 @@
+{
+  "alert_msg": "",
+  "broadcast": [],
+  "business_type": 0,
+  "cart": {
+    "agent_fee_tip": "另需配送费5元",
+    "deliver_amount": 0,
+    "discount_amount": 0,
+    "extra": [],
+    "extra_all": [
+      {
+        "category_id": 2,
+        "description": "",
+        "icon": { "color": "2396ff", "image_hash": "", "name": "蜂鸟" },
+        "id": -10,
+        "max_quantity": 1,
+        "name": "配送费",
+        "original_price": 5,
+        "price": 1,
+        "quantity": 1,
+        "sale_total_weight": 0,
+        "type": 0
+      }
+    ],
+    "group": [],
+    "ingredient_group": [],
+    "is_address_too_far": 0,
+    "max_weight": 10000000,
+    "minimum_order_amount": "쌌",
+    "original_total": 0,
+    "package_group": [],
+    "restaurant": {
+      "address": "台基厂大街50号",
+      "closing_remain_seconds": 0,
+      "delivery_type": {
+        "bg_colors": ["00aaff", "0085ff"],
+        "name": "蜂鸟专送",
+        "text_color": "ffffff"
+      },
+      "id": "E14548561527133893294",
+      "image_path": "bcee2fa75ee974497271e1568ca6a2f6png",
+      "is_closed": 0,
+      "is_fengniao": 1,
+      "latitude": 39.903418,
+      "longitude": 116.411858,
+      "name": "松鹤楼(台基厂店)",
+      "next_business_time": "",
+      "only_use_poi": 0,
+      "phone": "쌌땣쌌물썙물물",
+      "piecewise_agent_fee": { "rules": [{ "fee": "물", "price": "쌌" }] },
+      "promiseCookingTime": 30,
+      "scheme": "eleme://catering?restaurant_id=E14548561527133893294",
+      "status": 1,
+      "take_by_self": 0,
+      "type": 0
+    },
+    "total": 0,
+    "total_weight": 0,
+    "tying_sku_group": []
+  },
+  "checkout_button": { "action": "checkout", "scheme": "", "text": "去结算" },
+  "checkout_button_v2": {
+    "action": "forbidden",
+    "forbidden_reason": {
+      "content": "请选必选品\n¥쌌起送",
+      "scheme": "eleme://catering?restaurant_id=E14548561527133893294",
+      "types": [2, 3]
+    },
+    "text": ""
+  },
+  "invalid_foods": [],
+  "is_pindan_available": true,
+  "item_promotion_cell": [],
+  "shop_promotion_cell": [],
+  "toasts": []
+}
