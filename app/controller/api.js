@@ -245,7 +245,7 @@ class ApiController extends Controller {
   async getShop() {
     const { ctx } = this;
     const { query } = ctx;
-    const result = await this.service.api.getShop();
+    const result = await this.service.api.getShop(query);
     ctx.body = {
       code: 0,
       data: result,

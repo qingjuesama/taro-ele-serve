@@ -4,6 +4,8 @@ const Service = require('egg').Service;
 const fs = require('fs');
 const { join } = require('path');
 
+const IMGURL = 'http://localhost:4000';
+
 class ApiService extends Service {
   // 获取用户ip
   async ip(query) {
@@ -78,7 +80,7 @@ class ApiService extends Service {
     if (!user) {
       const id = Date.now().toString();
       const userName = '饿了么用户';
-      const headImg = 'http://localhost:4000/public/uploadImg/default-head.png';
+      const headImg = `${IMGURL}/public/uploadImg/default-head.png`;
       const address = [];
       const order = [];
       users.push({ id, phone, password, userName, headImg, address, order });
@@ -134,7 +136,7 @@ class ApiService extends Service {
     const users = this.ctx.helper.getUsers();
 
     const user = users.find(user => user.phone === phone);
-    user.headImg = 'http://localhost:4000/public/uploadImg/' + imgName;
+    user.headImg = `${IMGURL}/public/uploadImg/` + imgName;
 
     fs.writeFileSync(
       join(__dirname, '../data/user.json'),
@@ -326,8 +328,16 @@ class ApiService extends Service {
 
   // 商家详情
   async getShop(query) {
-    const shop = await fs.readFileSync(join(__dirname, '../data/shop.json'));
-    return JSON.parse(shop);
+    const { id } = query;
+    let shops = await fs.readFileSync(join(__dirname, '../data/shop.json'));
+    shops = JSON.parse(shops);
+    const shop = shops.find(item => item.rst.id === id);
+    if (shop) {
+      return shop;
+    }
+    if (!shop) {
+      return shops[0];
+    }
   }
 
   // 商家评价
@@ -414,7 +424,9 @@ class ApiService extends Service {
     const orderNum = 'ON' + createTime;
     const users = this.ctx.helper.getUsers();
     const user = users.find(u => u.phone === phone);
-    user.order.unshift({ ...body, orderNum, createTime });
+    const foods = JSON.parse(body.foods);
+    const address = JSON.parse(body.address);
+    user.order.unshift({ ...body, foods, address, orderNum, createTime });
     this.ctx.helper.saveUsers(users);
     return 'ok';
   }

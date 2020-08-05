@@ -12,6 +12,7 @@
     "egg-jwt": "^3.1.7",
     "egg-multipart": "^2.10.3",
     "egg-scripts": "^2.11.0",
+    "lodash": "^4.17.19",
     "react-spring": "^8.0.27"
   },
   "devDependencies": {
